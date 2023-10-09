@@ -70,7 +70,7 @@ const Navbar = () => {
                 >
                   <img
                     className="h-8 w-8 rounded-full"
-                    src="https://assets.stickpng.com/images/585e4bcdcb11b227491c3396.png"
+                    src="https://i.ibb.co/ZNTDfpF/user-456212.png"
                     alt="User Profile"
                   />
                 </button>
